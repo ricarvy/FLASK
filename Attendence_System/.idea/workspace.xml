@@ -1,7 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01a68aa2-a96c-429c-b2c0-5b48d6b3e55b" name="Default Changelist" comment="" />
+    <list default="true" id="01a68aa2-a96c-429c-b2c0-5b48d6b3e55b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Blog_System/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/fonts/bootstrap/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/fonts/bootstrap/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/fonts/bootstrap/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/fonts/icomoon/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/fonts/icomoon/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/fonts/icomoon/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/fonts/icomoon/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/images/bg_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/images/geometry2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/js/jquery.placeholder.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/js/jquery.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/js/modernizr-2.6.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/login/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/bootstrap/css/bootstrap-responsive.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/bootstrap/img/glyphicons-halflings-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/bootstrap/img/glyphicons-halflings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/css/theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/images/icons/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/images/icons/font/fontawesome-webfont3294.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/images/icons/font/fontawesome-webfont3294.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/images/icons/font/fontawesome-webfont3294.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/images/icons/font/fontawesome-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/images/img.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/images/jquery-ui/picker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/scripts/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/scripts/datatables/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/scripts/flot/jquery.flot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/scripts/flot/jquery.flot.pie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/scripts/flot/jquery.flot.resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/scripts/jquery-1.9.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/static/others/scripts/jquery-ui-1.10.1.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Customer_System/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Blog_System/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Blog_System/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +79,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="16" />
+          <entry key="html" value="17" />
           <entry key="py" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="16" />
+          <entry key="HTML" value="17" />
           <entry key="Python" value="13" />
         </counts>
       </usages-collector>
@@ -47,11 +105,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/templates/fixed_sidebar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="-2960">
               <caret line="22" column="82" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="586">
+              <caret line="124" column="9" selection-start-line="124" selection-start-column="9" selection-end-line="124" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -60,7 +127,7 @@
         <entry file="file://$PROJECT_DIR$/app/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
-              <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+              <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
                 <marker date="1543055299470" expanded="true" signature="283:288" ph="..." />
@@ -177,6 +244,9 @@
       <find>login</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -229,12 +299,13 @@
       <path value="$PROJECT_DIR$/app/static/vendors/transitionize/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-38" />
-    <option name="y" value="55" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="584" />
+    <option name="y" value="63" />
     <option name="width" value="1932" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -274,6 +345,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -342,20 +414,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.330076" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -391,13 +462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="1798" selection-start-line="1798" selection-end-line="1798" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="119" column="19" lean-forward="true" selection-start-line="107" selection-start-column="18" selection-end-line="119" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -484,7 +548,7 @@
     <entry file="file://$PROJECT_DIR$/app/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
             <marker date="1543055299470" expanded="true" signature="283:288" ph="..." />
@@ -500,8 +564,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/fixed_sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="-2960">
           <caret line="22" column="82" selection-start-line="22" selection-start-column="82" selection-end-line="22" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="124" column="9" selection-start-line="124" selection-start-column="9" selection-end-line="124" selection-end-column="9" />
         </state>
       </provider>
     </entry>
