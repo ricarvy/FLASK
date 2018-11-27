@@ -1,3 +1,8 @@
 第一个是点名系统
 第二个是发帖系统
 第三个是消费系统
+
+
+使用说明：
+
+首先安装anaconda(请百度),其次安装requirements.txt中的环境(用pip或者conda安装),最后运行run.py
